@@ -12,8 +12,8 @@
           <option name="moduleName" value="Problems-How_many_Callable_objects_are_there" />
           <option name="friendPaths">
             <array>
-              <option value="$MODULE_DIR$/../../../../Problems/How many Callable objects are there/build/classes/kotlin/main" />
               <option value="$MODULE_DIR$/../../../../Problems/How many Callable objects are there/build/classes/java/main" />
+              <option value="$MODULE_DIR$/../../../../Problems/How many Callable objects are there/build/classes/kotlin/main" />
             </array>
           </option>
           <option name="languageVersion" value="1.3" />

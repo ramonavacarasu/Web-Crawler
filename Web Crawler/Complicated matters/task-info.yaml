@@ -467,6 +467,34 @@ files:
         }
     }
   learner_created: false
+- name: temp.log
+  visible: true
+  text: |
+    http://localhost:25555/circular3
+    circular3tiTle
+    http://localhost:25555/circular1
+    circular1tiTle
+    http://localhost:25555/exampleDotCom
+    Example Domain
+  learner_created: true
+- name: src/crawler/MainTitle.java
+  visible: true
+  learner_created: true
+- name: src/crawler/SecundaryLinksAndTitles.java
+  visible: true
+  learner_created: true
+- name: src/crawler/GetLinkType.java
+  visible: true
+  learner_created: true
+- name: src/crawler/MakeAbsoluteLink.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/59/stages/322/implement
-status: Unchecked
+status: Failed
+feedback:
+  message: |-
+    Wrong answer in test #17
+
+    Parsed pages number your app shows is wrong
+  time: Wed, 23 Sep 2020 12:26:46 UTC
 record: -1

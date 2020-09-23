@@ -12,8 +12,8 @@
           <option name="moduleName" value="Problems-Check_whether_a_number_is_prime" />
           <option name="friendPaths">
             <array>
-              <option value="$MODULE_DIR$/../../../../Problems/Check whether a number is prime/build/classes/java/main" />
               <option value="$MODULE_DIR$/../../../../Problems/Check whether a number is prime/build/classes/kotlin/main" />
+              <option value="$MODULE_DIR$/../../../../Problems/Check whether a number is prime/build/classes/java/main" />
             </array>
           </option>
           <option name="languageVersion" value="1.3" />
