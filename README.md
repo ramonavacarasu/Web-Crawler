@@ -1,3 +1,6 @@
 # Web-Crawler
-A program designed to crawl web pages and collect html links, using them to display links titles and other type of content.
+
+###### Main class is ApplicationRunner
+
+WebCrawler visits the site with entered URL-address, collects all links from it, visits everyone of them and repeat. 
 Features include using the Java Swing worker class for multithreading, specifically implementing this class doInBackground method.
